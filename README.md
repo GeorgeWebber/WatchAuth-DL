@@ -1,2 +1,3 @@
-# TensorFlow
-This is the [Gradient Notebooks](https://gradient.run/notebooks "Gradient Notebooks") default TensorFlow repository that will populate the recommended TensorFlow runtime when starting a new notebook.
+# Notebooks for researching DL applications to smartwatch payment security
+
+See https://arxiv.org/abs/2307.05437
